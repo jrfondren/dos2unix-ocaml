@@ -1,0 +1,4 @@
+(executable
+ (public_name dos2unix)
+ (name main)
+ (libraries dos2unix str))
